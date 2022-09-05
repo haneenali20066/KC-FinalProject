@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D4263"
+    android:orientation="vertical"
+    tools:context=".VisualStudioCode1">
+
+    <TextView
+        android:id="@+id/txt47"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="Error during a repair"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+    <TextView
+        android:id="@+id/txt48"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="If the error occurs when you try to repair Visual Studio, your installation cache may have become corrupted. To repair the cache, follow these steps:
+Close Visual Studio.
+To open an elevated Command Prompt, select Start, type cmd in the Start search box, right-click cmd.exe in the results list, and then select Run as administrator.
+In the Command Prompt window, type cd C:\ProgramData\Package Cache, and then press Enter.
+To clear the .msi and .cab files from the cache, type the following commands in the Command Prompt window, and press Enter after each command: "
+        android:textColor="#A5C9CA"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:id="@+id/v11"
+        android:layout_width="match_parent"
+        android:layout_height="101dp"
+        app:srcCompat="@drawable/v1" />
+
+
+
+
+</LinearLayout>

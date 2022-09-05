@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D4263"
+    android:orientation="vertical"
+    tools:context=".android4">
+
+   <TextView
+        android:id="@+id/txt15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Adding Fonts in Android Studio"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/txt16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Step 1:Create a folder named font inside the res folder and copy your font"
+        android:textColor="#A5C9CA"
+        android:textSize="25dp" />
+
+    <ImageView
+        android:id="@+id/sssss"
+        android:layout_width="250dp"
+        android:layout_height="200dp"
+        app:srcCompat="@drawable/d3"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/txt17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Step 2:All font names must be only: lowercase a-z, 0-9, or underscore."
+        android:textColor="#A5C9CA"
+        android:textSize="25dp" />
+
+
+    <ImageView
+        android:id="@+id/qqqqq"
+        android:layout_width="392dp"
+        android:layout_height="208dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/d5" />
+
+
+
+
+</LinearLayout>

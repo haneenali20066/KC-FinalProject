@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D4263"
+    android:orientation="vertical"
+    tools:context=".android1">
+
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Hiding Action Bar in Android Studio"
+        android:textColor="@color/white"
+        android:textSize="40dp"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="If you wish to hide Action Bar in one activity only, put this in onCreate():"
+        android:layout_marginTop="20dp"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:textColor="#A5C9CA"/>
+
+    <ImageView
+        android:id="@+id/hide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        app:srcCompat="@drawable/a1" />
+
+    <TextView
+        android:id="@+id/txt3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Watch this youtube video: "
+        android:gravity="center"
+        android:textColor="#A5C9CA"
+        android:textSize="25dp"
+        android:layout_marginTop="40dp"/>
+
+    <TextView
+        android:id="@+id/txt4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="https://youtu.be/A9rcKZUm0zM"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+        android:textColor="#E7F6F2"
+        />
+
+
+</LinearLayout>

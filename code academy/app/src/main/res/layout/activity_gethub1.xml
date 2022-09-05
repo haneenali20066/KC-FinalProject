@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D4263"
+    android:orientation="vertical"
+    tools:context=".gethub1">
+
+    <TextView
+        android:id="@+id/txt32"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="What is get hub?"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+    <TextView
+        android:id="@+id/txt33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="GitHub is a code hosting platform for collaboration and version control.
+GitHub lets you (and others) work together on projects."
+        android:textColor="#A5C9CA"
+        android:textSize="25dp" />
+
+    <TextView
+    android:id="@+id/txt34"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+    android:gravity="center"
+    android:text="A GitHub repository can be used to store a development project.
+It can contain folders and any type of files (HTML, CSS, JavaScript, Documents, Data, Images).
+A GitHub repository should also include a licence file and a README file about the project.
+A GitHub repository can also be used to store ideas, or any resources that you want to share."
+    android:textColor="#A5C9CA"
+    android:textSize="25dp" />
+
+
+</LinearLayout>

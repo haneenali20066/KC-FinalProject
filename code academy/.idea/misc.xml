@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projrcts/code academy/app/src/main/res/drawable-v24/btn_bg.xml" value="0.119" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/drawable-v24/ic_email.xml" value="0.119" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/drawable-v24/ic_facebook.xml" value="0.119" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/drawable-v24/ic_google.xml" value="0.119" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/drawable/btn_inpt.xml" value="0.1725" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/drawable/input.xml" value="0.1725" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/font/oswaldbold.xml" value="0.20885416666666667" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/font/oswaldregular.xml" value="0.20885416666666667" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout-w936dp/activity_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_android.xml" value="0.22" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_android1.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_android2.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_android3.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_android4.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_android5.xml" value="0.22" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_apps.xml" value="0.16666666666666666" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_gethub.xml" value="0.165625" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_gethub1.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_gethub2.xml" value="0.17708333333333334" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_gethub3.xml" value="0.17708333333333334" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_gethub4.xml" value="0.17708333333333334" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_gethub5.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_login.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_register2.xml" value="0.12" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_rigester.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_visual_studio_code.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_visual_studio_code1.xml" value="0.165625" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_visual_studio_code2.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_visual_studio_code3.xml" value="0.17708333333333334" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_visual_studio_code4.xml" value="0.17708333333333334" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_visual_studio_code5.xml" value="0.17708333333333334" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_xcode.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_xcode1.xml" value="0.16666666666666666" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_xcode2.xml" value="0.165625" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_xcode3.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_xcode4.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/activity_xcode5.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/gethubproblems.xml" value="0.17864583333333334" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/gethubproblems_row.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/problems_row.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/rigester.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/toolbar.xml" value="0.2086374695863747" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/visualstudio_row.xml" value="0.1796875" />
+        <entry key="..\:/projrcts/code academy/app/src/main/res/layout/xcode_row.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.16666666666666666" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

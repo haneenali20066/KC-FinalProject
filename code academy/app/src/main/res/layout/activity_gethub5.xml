@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D4263"
+    android:orientation="vertical"
+    tools:context=".gethub5">
+
+    <TextView
+        android:id="@+id/txt43"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="steps of creating a repository"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+    <TextView
+        android:id="@+id/txt44"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="In the upper-right corner of any page, use the + drop-down menu, and select New repository. "
+        android:textColor="#A5C9CA"
+        android:textSize="25dp" />
+
+    <ImageView
+        android:id="@+id/ddd"
+        android:layout_width="match_parent"
+        android:layout_height="101dp"
+        app:srcCompat="@drawable/g3" />
+
+    <TextView
+        android:id="@+id/txt45"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Type a name for your repository, and an optional description. "
+        android:textColor="#A5C9CA"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:id="@+id/lllll"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        app:srcCompat="@drawable/g4" />
+
+
+    <TextView
+        android:id="@+id/txt46"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Click Create repository."
+        android:textColor="#A5C9CA"
+        android:textSize="20dp" />
+
+
+    <ImageView
+        android:id="@+id/fff"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        app:srcCompat="@drawable/g5" />
+
+
+</LinearLayout>

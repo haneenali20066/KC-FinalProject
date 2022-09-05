@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D4263"
+    android:orientation="vertical"
+    tools:context=".android5">
+
+    <TextView
+        android:id="@+id/txt18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Making new class in Android Studio"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/txt19"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="To create a new Java class or type, follow these steps:
+In the Project window, right-click a Java file or folder, and select New > Java Class.
+Alternatively, select a Java file or folder in the Project window, or click in a Java file in the Code Editor. Then select File > New > Java Class.
+The item you select determines the default package for the new class or type."
+        android:textColor="#A5C9CA"
+        android:textSize="25dp" />
+
+    <ImageView
+        android:id="@+id/wwww"
+        android:layout_width="364dp"
+        android:layout_height="264dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/d6" />
+
+</LinearLayout>

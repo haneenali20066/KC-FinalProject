@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D4263"
+    android:orientation="vertical"
+    tools:context=".xcode3">
+
+    <TextView
+        android:id="@+id/txt25"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Steps of Adding fonts in Xcode"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+    <TextView
+        android:id="@+id/txt26"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Select File menu > Add Files to Your Project Name... from the menu bar, select all the fonts you need to add, then click the Add button. Or drag the file from Finder and drop it into your Xcode project."
+        android:textColor="#A5C9CA"
+        android:textSize="25dp" />
+
+    <ImageView
+        android:id="@+id/tttt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/x3" />
+</LinearLayout>

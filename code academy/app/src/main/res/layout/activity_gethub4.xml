@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D4263"
+    android:orientation="vertical"
+    tools:context=".gethub4">
+
+    <TextView
+        android:id="@+id/txt41"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="Get hub or get hub dasktop"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+    <TextView
+        android:id="@+id/txt42"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="GitHub Desktop is an application that enables you to interact with GitHub using a GUI instead of the command line or a web browser. GitHub Desktop encourages you and your team to collaborate using best practices with Git and GitHub. You can use GitHub Desktop to complete most Git commands from your desktop with visual confirmation of changes. You can push to, pull from, and clone remote repositories with GitHub Desktop, and use collaborative tools such as attributing commits and creating pull requests."
+        android:textColor="#A5C9CA"
+        android:textSize="25dp" />
+
+
+</LinearLayout>

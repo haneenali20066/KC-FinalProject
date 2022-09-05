@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D4263"
+    android:orientation="vertical"
+    tools:context=".xcode1">
+
+    <TextView
+        android:id="@+id/txt20"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Adding Photos in Xcode"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/txt21"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Drag and drop an image file from Finder onto the assets catalog. Dragging the image will automatically create new image set for you."
+        android:textColor="#A5C9CA"
+        android:textSize="25dp" />
+
+
+    <ImageView
+        android:id="@+id/xxxxx"
+        android:layout_width="363dp"
+        android:layout_height="291dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/x1" />
+
+
+</LinearLayout>

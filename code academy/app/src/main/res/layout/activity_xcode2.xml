@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D4263"
+    android:orientation="vertical"
+    tools:context=".xcode2">
+
+    <TextView
+        android:id="@+id/txt22"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Adding Buttons in Xcode"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/txt23"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Search for “UILabel” in the Library pane in the lower right hand corner and drag the UILabel onto your view."
+        android:textColor="#A5C9CA"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/txt24"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Next, repeat the same steps but this time, search for “UITextField” and drag and drop that element onto your view.
+Next, repeat the same steps but this time, search for “UIButton” and drag and drop that element onto your view.
+You should end up with a view with a label, textfield and button."
+        android:textColor="#A5C9CA"
+        android:textSize="25dp" />
+
+    <ImageView
+        android:id="@+id/aaaa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/x2" />
+
+</LinearLayout>

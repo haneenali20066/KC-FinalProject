@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D4263"
+    android:orientation="vertical"
+    tools:context=".gethub3">
+
+    <TextView
+        android:id="@+id/txt37"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="The steps of creating   a fork"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+    <TextView
+        android:id="@+id/txt38"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="In the top-right corner of the page, click Fork "
+        android:textColor="#A5C9CA"
+        android:textSize="25dp" />
+
+    <ImageView
+        android:id="@+id/ppp"
+        android:layout_width="match_parent"
+        android:layout_height="101dp"
+        app:srcCompat="@drawable/g2" />
+
+    <TextView
+        android:id="@+id/txt39"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Choose whether to copy only the default branch or all branches to the new fork. For many forking scenarios, such as contributing to open-source projects, you only need to copy the default branch. By default, only the default branch is copied. "
+        android:textColor="#A5C9CA"
+        android:textSize="20dp" />
+
+
+    <TextView
+        android:id="@+id/txt40"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Click Create fork."
+        android:textColor="#A5C9CA"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:id="@+id/kkkk"
+        android:layout_width="match_parent"
+        android:layout_height="211dp"
+        app:srcCompat="@drawable/g1" />
+
+
+</LinearLayout>

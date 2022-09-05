@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D4263"
+    android:orientation="vertical"
+    tools:context=".android3">
+
+    <TextView
+        android:id="@+id/txt10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Adding Photos in Android Studio"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/txt11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Step 1:First of all in your system find your required images and copy the image as we do normally."
+        android:textColor="#A5C9CA"
+        android:textSize="20dp" />
+    <TextView
+        android:id="@+id/txt12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Step 2: Then open the Android Studio go to the app > res > drawable > right-click > Paste as shown in the below figure."
+        android:textColor="#A5C9CA"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:id="@+id/hhhh"
+        android:layout_width="214dp"
+        android:layout_height="186dp"
+        app:srcCompat="@drawable/d4" />
+
+    <TextView
+        android:id="@+id/txt13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Step 3: Then a pop-up screen will arise like below. Here choose your directory where you want to store your image file. And click on OK."
+        android:textColor="#A5C9CA"
+        android:textSize="20dp" />
+    <TextView
+        android:id="@+id/txt14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Step 4: In this screen, you can rename your image file name and also choose your directory. And click on the Refactor button. And you are done."
+        android:textColor="#A5C9CA"
+        android:textSize="20dp" />
+
+
+
+</LinearLayout>

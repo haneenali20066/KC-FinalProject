@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D4263"
+    android:orientation="vertical"
+    tools:context=".VisualStudioCode1">
+
+    <TextView
+        android:id="@+id/txt49"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="How do i fix Visual Studio build errors?"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+    <TextView
+        android:id="@+id/txt50"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Go to Tools >> Options… >> Projects and Solutions >> Build and Run. On the right-hand side panel, just change the value in dropdown displayed under ‘On Run, when build or deployment errors occur:’ to 'Do not Launch' and we are done. "
+        android:textColor="#A5C9CA"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:id="@+id/v111"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/options" />
+
+
+
+
+</LinearLayout>
